@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shimmering-moonbeam-c239b3.netlify.app/sitemap-index.xml
